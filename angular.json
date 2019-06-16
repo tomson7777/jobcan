@@ -22,7 +22,7 @@
               "apps/jobber/src/assets"
             ],
             "styles": [
-              "apps/jobber/src/styles.css"
+              "apps/jobber/src/styles.scss"
             ],
             "scripts": []
           },
